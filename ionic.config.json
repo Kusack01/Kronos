@@ -1,0 +1,7 @@
+{
+  "name": "Kronos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
